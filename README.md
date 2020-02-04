@@ -20,7 +20,7 @@ Implement Conway's Game of Life. It should be able to be initialized with a star
 
 You can represent a live cell with an asterisk (*) and a dead cell with a dot (.).
 
-[Solution](solutions/problem_001.py)
+[Solution](working progress/Game of Life.ipynb)
 
 #### Problem 2: Trapping Rain
 
@@ -34,9 +34,12 @@ For example, given the input [2, 1, 2], we can hold 1 unit of water in the middl
 
 Given the input [3, 0, 1, 3, 0, 5], we can hold 3 units in the first index, 2 in the second, and 3 in the fourth index (we cannot hold 5 since it would run off to the left), so we can trap 8 units of water.
 
+[Solution](solutions/Trapping Rain Water.ipynb)
 
 #### Number of Unique Paths
 
 Given a M X N matrix with your initial position at top-left cell, find the number of possible unique paths to reach the bottom right cell of the matrix from the initial position.
 Note: Possible moves can be either down or right at any point in time, i.e., we can move to matrix[i+1][j] or matrix[i][j+1] from matrix[i][j].
 Input: The first line contains an integer T, depicting total number of test cases. Then following T lines contains an two integers N and M depicting the size of the grid.
+
+[Solution](solutions/Number of Unique Paths.ipynb)
