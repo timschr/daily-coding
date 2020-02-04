@@ -20,7 +20,7 @@ Implement Conway's Game of Life. It should be able to be initialized with a star
 
 You can represent a live cell with an asterisk (*) and a dead cell with a dot (.).
 
-[Solution](working progress/Game of Life.ipynb)
+[Solution](working progress/Game_of_Life.ipynb)
 
 #### Problem 2: Trapping Rain
 
